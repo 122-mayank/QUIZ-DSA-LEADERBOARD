@@ -1,1 +1,1 @@
-# QUIZ-DSA-LEADERBOARD
+DSA Quiz Arena is a web-based application designed to help students and developers master Data Structures and Algorithms (DSA) through topic-wise quizzes. It includes a real-time leaderboard, beautiful hexagonal background, and a smooth user experience 
